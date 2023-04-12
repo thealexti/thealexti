@@ -109,7 +109,7 @@
 
 <div align="center">
      <a href="https://www.codewars.com/users/rsschool_2c0f6253f5ca86ba">
-        <img src="https://gifdb.com/gif/kawaii-cat-typing-on-laptop-el6knl9y0hh5jc56.html"  width="300"/>
+        <img src="cat.gif"  width="300"/>
      </a>
 </div>
 <div align="center">
