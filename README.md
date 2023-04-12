@@ -1,7 +1,7 @@
 <!-- HEARER -->
 <div align="center">
      <a href="https://gitlab.com/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Oleksandr%20Tishchenko&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=53&fontAlignY=40&descSize=18&descAlign=88.5&descAlignY=17"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=header&text=Oleksandr%20Tishchenko&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=53&fontAlignY=40&descSize=18&descAlign=88.5&descAlignY=17"/>
     </a>
 </div>
     
@@ -10,7 +10,7 @@
 <!-- ./STAT -->
 <div align="center">
     <a href="https://skyline.github.com/thealexti/2022" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealexti&hide_border=true&stroke=888&ring=29cbcc&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=29cbcc&background=0000"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealexti&hide_border=true&stroke=888&ring=8359ff&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=8359ff&background=0000"
              title="thealexti" 
              alt="thealexti"
              width="60%"/>
@@ -18,13 +18,13 @@
 </div>
 <div align="center">
     <a href="https://github.com/thealexti?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=thealexti&show_icons=true&count_private=true&hide_border=true&title_color=29cbcc&text_color=888&icon_color=29cbcc&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api?username=thealexti&show_icons=true&count_private=true&hide_border=true&title_color=8359ff&text_color=888&icon_color=8359ff&bg_color=0000"
              title="thealexti github repositories" 
              alt="thealexti github stats"
              width="49%"/>
     </a>
     <a href="https://github.com/thealexti?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexti&&layout=compact&hide_border=true&title_color=29cbcc&text_color=888&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealexti&&layout=compact&hide_border=true&title_color=8359ff&text_color=888&bg_color=0000"
              title="thealexti github repositories"
              alt="thealexti github stats"
              width="41%"/>
@@ -122,7 +122,7 @@
 <!-- FOOTER -->
 <div align="center">
     <a href=mailto:oleks.tish@gmail.com target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
 <!-- FOOTER -->
